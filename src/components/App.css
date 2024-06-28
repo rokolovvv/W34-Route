@@ -1,0 +1,32 @@
+body {
+  background-color: #07348d;
+}
+.App {
+  background-color: #07348d;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: white;
+  padding-left: 30px;
+  width: 1000px;
+}
+.nav {
+  color: aliceblue;
+  font-size: 20px;
+}
+p {
+  margin-top: -100px;
+  margin-left: 300px;
+}
+strong {
+  position: absolute;
+  margin-top: -120px;
+  margin-left: 300px;
+}
+.home {
+  position: absolute;
+  color: aliceblue;
+  font-size: 20px;
+  margin-top: 50px;
+}
